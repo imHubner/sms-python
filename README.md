@@ -1,2 +1,2 @@
 # sms-python
-envia sms em python
+Lembre se de mudar os dados'token' 'numero' para funcionar !!
